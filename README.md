@@ -7,7 +7,7 @@ Categorias de classes:Em um sistema orientado a objetos, de modo geral "tudo" é
 
 Composição:É um tipo de associação que permite que um objeto contenha outro
 
-Exe: Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, 
+Ex: Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, 
 solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês:
 
 
